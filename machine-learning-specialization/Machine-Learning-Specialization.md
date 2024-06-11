@@ -1,5 +1,10 @@
-# 💻 Data Science
+# 💻 DeepLearning.AI | Machine Learning Specialization
 
-## Learning
-### DeepLearning.AI | Machine Learning Specialization
-### Carnegie Mellon University | 95-828 Machine Learning for Problem Solving
+## Supervised Machine Learning: Regression & Classification
+
+### Week 1
+
+### Week 2
+
+### Week 3
+
